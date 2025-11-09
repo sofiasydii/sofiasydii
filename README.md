@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 My name is Sofia and I'm a Computer Science student<br>📚 Currently learning: C, C++, C#, Python<br>🎯 Goals: Learn by building cool projects, survive uni, and maybe one day make a game that doesn’t crash<br>🎲 Fun fact: Massive Formula 1 fan – if it’s race weekend, I’m probably not coding 😄</p>
+<p align="left">👨‍💻 My name is Sofia and I'm a Computer Science student<br>📚 Currently learning: Python, Java, C, C++, C# <br>🎯 Goals: Learn by building cool projects, survive uni, and maybe one day make a game that doesn’t crash<br>🎲 Fun fact: Massive Formula 1 fan – if it’s race weekend, I’m probably not coding 😄</p>
 
 ###
 
